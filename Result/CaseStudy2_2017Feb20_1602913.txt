@@ -1,0 +1,11 @@
+Assert: Username Exists
+URL: http://newtours.demoaut.com/
+TITLE: Welcome: Mercury Tours
+Assert: Flight Finder page has loaded
+Count of Departing Cities: 10
+Departing Cities: [Acapulco, Frankfurt, London, New York, Paris, Portland, San Francisco, Seattle, Sydney, Zurich]
+Assert: Select Flight page loaded
+Assert: Title Matches
+Assert: Total Price has correct calculation
+Assert: Your itinerary has been booked!
+Assert: Log out confirmed

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="testscripts.CaseStudy1">
+        <methods>
+          <include name="Setup"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- testscripts.CaseStudy1 -->
+      <class name="testscripts.CaseStudy2">
+        <methods>
+          <include name="BookAReturnFlightForAPassenger"/>
+        </methods>
+      </class> <!-- testscripts.CaseStudy2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

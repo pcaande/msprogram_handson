@@ -1,0 +1,4 @@
+URL: http://newtours.demoaut.com/
+TITLE: Welcome: Mercury Tours
+Count of Departing Cities: 10
+Departing Cities: [Acapulco, Frankfurt, London, New York, Paris, Portland, San Francisco, Seattle, Sydney, Zurich]
